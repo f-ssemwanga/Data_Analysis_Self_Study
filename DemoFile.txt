@@ -1,0 +1,2 @@
+I am using this file to understand the mechanics of GitHub 
+as I follow the tutorial about GitHub for poets
