@@ -2,3 +2,4 @@ I am using this file to understand the mechanics of GitHub
 as I follow the tutorial about GitHub for poets
 This is in preparation for a bootcamp I am about to attend
 This is some prework I need to complete for this bootcamp
+- Made some addional edits 
